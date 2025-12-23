@@ -614,7 +614,7 @@ def main():
                     <h3 class="card-title">ESG量化数据分析系统</h3>
                 </div>
                 <p class="card-description">专注于企业环境、社会和治理表现的量化分析，提供多维度ESG评估与趋势追踪，支持PDF报告导出。</p>
-                <a href="https://20072023digital.streamlit.app/" target="_blank" class="card-button purple">
+                <a href="https://esgdigital.streamlit.app/" target="_blank" class="card-button purple">
                     进入系统 <i class="fa fa-external-link ml-1"></i>
                 </a>
             </div>
@@ -635,7 +635,7 @@ def main():
                     <h3 class="card-title">企业数据可视化平台</h3>
                 </div>
                 <p class="card-description">整合企业多维度数据，通过交互式图表直观展示企业表现，支持自定义筛选与深度数据分析。</p>
-                <a href="https://esgdigital.streamlit.app/" target="_blank" class="card-button green">
+                <a href="https://20072023digital.streamlit.app/" target="_blank" class="card-button green">
                     进入系统 <i class="fa fa-external-link ml-1"></i>
                 </a>
             </div>
