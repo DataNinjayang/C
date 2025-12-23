@@ -755,7 +755,7 @@ def main():
     st.markdown("""
     <footer class="footer">
         <div class="footer-content">
-            <p>&copy; 2023 企业数据系统平台 版权所有</p>
+            <p>&copy; 2025 企业数据系统平台 版权所有</p>
             <p>本系统仅供学习和研究使用</p>
         </div>
     </footer>
@@ -810,3 +810,4 @@ st.markdown("""
 # 运行主函数
 if __name__ == "__main__":
     main()
+
