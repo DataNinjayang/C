@@ -13,8 +13,27 @@ csvkit>=1.0.7
 pyarrow>=14.0.0
 # 处理图片/多媒体（若子页面有图片）
 Pillow>=10.0.0
-matplotlib
-seaborn
-plotly
-reportlab
-kaleido
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+reportlab>=4.0.0
+kaleido>=0.2.1
+
+# 二维码生成
+qrcode>=7.4.0
+qrcode[pil]>=7.4.0  # 包含Pillow支持
+
+# 其他常用依赖
+numpy>=1.24.0  # 科学计算基础库
+requests>=2.31.0  # HTTP请求
+urllib3>=2.0.0  # URL处理
+scikit-learn>=1.3.0  # 机器学习库（可能用于数据分析）
+jinja2>=3.1.0  # 模板引擎（Streamlit使用）
+altair>=5.0.0  # 可视化库（Streamlit使用）
+gitpython>=3.1.0  # Git操作（如果需要版本控制）
+python-dateutil>=2.8.0  # 日期时间处理
+pytz>=2023.3  # 时区处理
+tqdm>=4.65.0  # 进度条
+pytest>=7.4.0  # 测试框架（开发环境）
+black>=23.0.0  # 代码格式化（开发环境）
+flake8>=6.0.0  # 代码检查（开发环境）
